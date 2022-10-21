@@ -4,3 +4,4 @@ this is a new line。
 this is a second line. 
 see how diff work. 
 see how to manage restore.
+see how to manage restore2.
